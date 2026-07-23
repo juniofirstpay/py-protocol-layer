@@ -1,4 +1,4 @@
-setuptools==57.5.0
+setuptools==83.0.0
 aniso8601==7.0.0
 argcomplete==1.11.1
 attrs==19.3.0

@@ -1,4 +1,4 @@
-setuptools==57.5.0
+setuptools==83.0.0
 funcy==1.14
 jsonschema==3.2.0
 pip-tools==4.5.1
